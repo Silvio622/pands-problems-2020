@@ -20,7 +20,7 @@ if UserInput > 0: # the user input must be a positive number
             CurrentValue = (CurrentValue * 3) + 1 # odd number multiply currentvalue by 3 and add 1       
       
         ResultList.append(int(CurrentValue)) # writes a new entry every time to the end of the list (Append object) as currentvalue
-        time.sleep(0.5)  # use timer to slow down the while loop for troubleshooting 
+        #time.sleep(0.5)  # use timer to slow down the while loop for troubleshooting 
         print(CurrentValue) #use print out of the currentvalue for troubleshooting
     print(ResultList) # print out all the currentvalues in a list variable Resultlist
 else: # when the user input is a negative number
