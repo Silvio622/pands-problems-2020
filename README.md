@@ -2,11 +2,11 @@
 Submit work to GMIT
 
 ## Files to correct are:
-*BMI
-*Secondstring
-*Collatz
-*Weekday
-*Squareroot
-*ES
-*Plotting
+* BMI
+* Secondstring
+* Collatz
+* Weekday
+* Squareroot
+* ES
+* Plotting
 
